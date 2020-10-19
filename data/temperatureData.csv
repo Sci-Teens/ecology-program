@@ -1,4 +1,4 @@
-,startDateTime,dsnyTempTripleMean,cperTempTripleMean
+,Date,TemperatureDSNY,TemperatureCPER
 0,2019-01-01 00:00:00+00:00,24.3636,-14.7454
 1,2019-01-01 00:30:00+00:00,24.2071,-14.8839
 2,2019-01-01 01:00:00+00:00,23.9853,-14.8814
