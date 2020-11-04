@@ -1,4 +1,4 @@
-,startDateTime,dsnyTempTripleMean,RHMean
+,Date,Temperature,RelativeHumidity
 0,2019-01-01 12:00:00+00:00,16.9966,98.77
 1,2019-01-02 12:00:00+00:00,17.6244,98.66
 2,2019-01-03 12:00:00+00:00,17.5538,98.7
